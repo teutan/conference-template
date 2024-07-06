@@ -49,7 +49,7 @@ navbar:
     path: /
     visible: True
   - id: 1
-    label: Organization
+    label: Schedule
     path: /organization.html
     visible: True
   - id: 2

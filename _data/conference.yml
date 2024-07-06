@@ -55,11 +55,11 @@ navbar:
   - id: 2
     label: Call for Papers
     path: /cfp.html
-    visible: false
+    visible: True
   - id: 3
     label: Submission
     path: /submission.html
-    visible: false
+    visible: True
   - id: 4
     label: Programs
     path: /program.html

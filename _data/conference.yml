@@ -50,16 +50,16 @@ navbar:
     visible: True
   - id: 1
     label: Schedule
-    path: /program.html
-    visible: True
+    path: /cfp.html
+    visible: false
   - id: 2
     label: Call for Papers
     path: /cfp.html
-    visible: True
+    visible: false
   - id: 3
     label: Submission
     path: /submission.html
-    visible: True
+    visible: false
   - id: 4
     label: Programs
     path: /program.html

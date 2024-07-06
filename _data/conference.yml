@@ -8,7 +8,7 @@ date: 2024
 logo_path: ./assets/images/teulogo_ja_201216.png
 slideshow:
   - id: 0
-    image_path: ./assets/images/slideshow/BS.jpg
+    image_path: ./assets/images/BS.jpg
     description: TEU
     photographer_name: TEU
     photographer_link: https://www.flickr.com/photos/memoriesbymike/
@@ -55,23 +55,23 @@ navbar:
   - id: 2
     label: Call for Papers
     path: /cfp.html
-    visible: True
+    visible: false
   - id: 3
     label: Submission
     path: /submission.html
-    visible: True
+    visible: false
   - id: 4
     label: Programs
     path: /program.html
-    visible: True
+    visible: false
   - id: 5
     label: Venue
     path: /venue.html
-    visible: True
+    visible: false
   - id: 6
     label: Registration
     path: /registration.html
-    visible: True
+    visible: false
 deadlines:
   - date: 2017-7-6
     timezone: 9PM PDT
@@ -87,22 +87,13 @@ deadlines:
     text: Workshop
     pass_due: False
 news:
-  - date: 2017-10-14
-    text: Workshop has been successfully held
-  - date: 2017-05-12
-    text: Submission site online
-  - date: 2017-03-08
-    text: Website online
+  - date: 2024-12-02
+    text: The 5th AGILEHAND Plenary Meeting
 sponsors:
-  - name: ACM
+  - name: Hachioji
     logo_path: ./assets/images/sponsors/acm-logo.png
-  - name: IEEE
-    logo_path: ./assets/images/sponsors/ieee-logo.gif
-social_media:
-  facebook_link: https://www.facebook.com/hotwebseries/
-  twitter_link:
 program_chair:
-  - name: Qun Li
+  - name: SHE JINHUA
     org: College of William and Mary (USA)
     homepage: http://www.cs.wm.edu/~liqun
   - name: Songqing Chen

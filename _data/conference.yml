@@ -18,31 +18,31 @@ slideshow:
     description: San Jose Museum of Art
     photographer_name: Bryan Nabong
     photographer_link: https://www.flickr.com/photos/bongarang/
-    active: false
+    active: True
   - id: 2
     image_path: ./assets/images/slideshow/BS.jpg
     description: San Jose State University
     photographer_name: David Sawyer
     photographer_link: https://www.flickr.com/photos/18702768@N04/
-    active: false
+    active: True
   - id: 3
     image_path: ./assets/images/slideshow/BS.jpg
     description: Cathedral Basilica of St. Joseph
     photographer_name: Patricia Montes Gregory
     photographer_link: https://www.flickr.com/photos/32159045@N02/
-    active: false
+    active: True
   - id: 4
     image_path: ./assets/images/slideshow/BS.jpg
     description: Winchester Mystery House
     photographer_name: Pomax
     photographer_link: https://www.flickr.com/photos/pomax/
-    active: false
+    active: True
   - id: 5
     image_path: ./assets/images/slideshow/BS.jpg
     description: Rose Garden Branch Library
     photographer_name: John Menard
     photographer_link: https://www.flickr.com/photos/jmenard48/
-    active: false
+    active: True
 navbar:
   - id: 0
     label: Home

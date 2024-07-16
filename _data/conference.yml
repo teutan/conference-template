@@ -51,15 +51,15 @@ navbar:
   - id: 1
     label: Schedule
     path: /cfp.html
-    visible: True
+    visible: False
   - id: 2
     label: Call for Papers
     path: /cfp.html
-    visible: True
+    visible: False
   - id: 3
     label: Submission
     path: /submission.html
-    visible: True
+    visible: False
   - id: 4
     label: Programs
     path: /program.html

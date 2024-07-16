@@ -51,7 +51,7 @@ navbar:
   - id: 1
     label: Schedule
     path: /cfp.html
-    visible: false
+    visible: True
   - id: 2
     label: Call for Papers
     path: /cfp.html
@@ -67,16 +67,16 @@ navbar:
   - id: 5
     label: Venue
     path: /venue.html
-    visible: false
+    visible: True
   - id: 6
     label: Registration
     path: /registration.html
-    visible: false
+    visible: True
 deadlines:
-  - date: 2017-7-6
-    timezone: 9PM PDT
+  - date: 2024-12-3
+    timezone: 9AM 
     text: Submission deadline (extended)
-    pass_due: False
+    pass_due: True
   - date: 2017-8-7
     text: Notification of acceptance
     pass_due: False
@@ -94,10 +94,10 @@ sponsors:
     logo_path: ./assets/images/HACHIOJI.png
 program_chair:
   - name: SHE JINHUA
-    org: College of William and Mary (USA)
+    org: TEU
     homepage: http://www.cs.wm.edu/~liqun
 webmaster:
-  - name: Shanhe Yi
-    org: College of William and Mary (USA)
+  - name: SHE JINHUA
+    org: TEU
     homepage: http://www.cs.wm.edu/~syi
 
